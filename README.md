@@ -1,0 +1,1 @@
+This is a Simon Says game using HTML, CSS, and JavaScript. It will keep track of your score, play a sound for each button pressed (and if you're wrong), and end the game with an opportunity to start over. Event listeners were implemented and so was jQuery. 
